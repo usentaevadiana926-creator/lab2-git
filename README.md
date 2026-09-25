@@ -12,3 +12,7 @@
 
 init, clone, commit, push, pull и merge.
 
+
+
+Основная версия проекта.
+
