@@ -6,3 +6,9 @@
 
 Группа: КОГ 3
 
+
+
+Изучаются основные команды Git:
+
+init, clone, commit, push, pull и merge.
+
