@@ -14,5 +14,5 @@ init, clone, commit, push, pull и merge.
 
 
 
-В проект добавлена новая функциональность.
+Версия проекта в ветке feature.
 
